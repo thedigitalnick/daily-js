@@ -6,4 +6,4 @@ const contact = "thedigitalnick@gmail.com";
 
 console.log(siteName, pageCount, isLive, siteLocation, contact)
 
-siteLocation = "Orlando"; //this line will break because of reassignment
+siteLocation = "Orlando"; //this line will error because of reassignment
